@@ -61,7 +61,7 @@ Demonstrating proficiency in:
 </p>
 
 ## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/gvelasque/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/gvelasquez93)
+- LinkedIn: gvelasque(https://www.linkedin.com/in/gvelasque/)
+- Twitter: gvelasquez93(https://twitter.com/gvelasquez93)
 
 Feel free to explore my projects, and don't hesitate to reach out for collaborations or exciting opportunities! 🚀
