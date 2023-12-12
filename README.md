@@ -42,7 +42,6 @@ Demonstrating proficiency in:
 - ...
 
 ## 📊 GitHub Analytics
-![Profile Views](https://komarev.com/ghpvc/?username=gvelasque&color=brightgreen)
 
 <!-- GitHub Stats -->
 <p align="center">
@@ -61,7 +60,10 @@ Demonstrating proficiency in:
 </p>
 
 ## 📫 Connect with Me
-- LinkedIn: gvelasque(https://www.linkedin.com/in/gvelasque/)
-- Twitter: gvelasquez93(https://twitter.com/gvelasquez93)
+- LinkedIn: [gvelasque](https://www.linkedin.com/in/gvelasque/)
+- Twitter: [gvelasquez93](https://twitter.com/gvelasquez93)
 
 Feel free to explore my projects, and don't hesitate to reach out for collaborations or exciting opportunities! 🚀
+
+![Profile Views](https://komarev.com/ghpvc/?username=gvelasque&color=brightgreen)
+
