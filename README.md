@@ -18,17 +18,15 @@ I'm Gerardo Velasquez, an enthusiastic and dedicated computer engineering studen
   - **Software Engineering:** Algorithm Design, Database design and Data structures
 
 ## 📘 Education
-- **Universitat Oberta de Catalunya (UOC)**
-  - Computer Software Engineering
-  - Sep 2023 - Jun 2026
+- **Computer Software Engineering - Universitat Oberta de Catalunya (UOC)**
  
 ## 📚 Certifications
-- [Python 3 Programming Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/LFK9BLN97UJW)
-- [Python for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/GHKLLEQJTXT6)
-- [AI Foundations for Everyone Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/DLW7T5FFMKWC)
-- [Google IT Automation with Python Professional Certificate](https://www.coursera.org/google-certificates/it-automation-certificate) (4/6 courses completed)
-- [Django for Everybody Specialization](https://www.coursera.org/specializations/django) (2/4 courses completed)
-- [PostgreSQL for Everybody Specialization](https://www.coursera.org/specializations/postgresql-for-everybody) (2/4 courses completed)
+- [Python 3 Programming Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/LFK9BLN97UJW) - University of Michigan | Coursera
+- [Python for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/GHKLLEQJTXT6) - University of Michigan | Coursera
+- [AI Foundations for Everyone Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/DLW7T5FFMKWC) - IBM | Coursera
+- [Google IT Automation with Python Professional Certificate](https://www.coursera.org/google-certificates/it-automation-certificate) (4/6 courses completed) - Google | Coursera
+- [Django for Everybody Specialization](https://www.coursera.org/specializations/django) (2/4 courses completed) - University of Michigan | Coursera
+- [PostgreSQL for Everybody Specialization](https://www.coursera.org/specializations/postgresql-for-everybody) (2/4 courses completed) - University of Michigan | Coursera
 
 <!--
 ## 🚀 Experience
