@@ -48,7 +48,7 @@ I'm Gerardo Velasquez, an enthusiastic and dedicated computer engineering studen
 
 **Overview:** Extracted Amazon data using Python for web scraping, focusing on efficient techniques. Proficient in handling dynamic content and manipulating XML structures.
 
-### [Python Script Showcase](https://github.com/gvelasque/python-script-showcase.git)
+### [Python Script](https://github.com/gvelasque/python-projects.git)
 - **Duration:** Jan 2023 - Present
 - **Skills:** Python, Clean Code, Algorithm Design and Modular Design
 
