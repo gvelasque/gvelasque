@@ -15,19 +15,17 @@ I'm Gerardo Velasquez, an enthusiastic and dedicated computer engineering studen
   - **Web Technologies:** HTML, CSS, and Bootstrap
   - **Web and Data Scraping:** BeautifulSoup and Selenium
   - **Database Management:** SQL and PostgreSQL
-  - **Software Engineering:** Algorithm Design, Database design, Data structures
+  - **Software Engineering:** Algorithm Design, Database design and Data structures
 
 ## 📘 Education
 - **Universitat Oberta de Catalunya (UOC)**
-  - Computer Engineering, Computer Software Engineering
+  - Computer Software Engineering
   - Sep 2023 - Jun 2026
  
 ## 📚 Certifications
 - [Python 3 Programming Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/LFK9BLN97UJW)
 - [Python for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/GHKLLEQJTXT6)
 - [AI Foundations for Everyone Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/DLW7T5FFMKWC)
-
-### In Progress
 - [Google IT Automation with Python Professional Certificate](https://www.coursera.org/google-certificates/it-automation-certificate) (4/6 courses completed)
 - [Django for Everybody Specialization](https://www.coursera.org/specializations/django) (2/4 courses completed)
 - [PostgreSQL for Everybody Specialization](https://www.coursera.org/specializations/postgresql-for-everybody) (2/4 courses completed)
@@ -42,24 +40,20 @@ I'm Gerardo Velasquez, an enthusiastic and dedicated computer engineering studen
 
 ## 🚀 Projects
  
-### [Amazon Web Scraping](https://github.com/gvelasque/amazon-web-scraping.git)
-- **Duration:** Jul 2022 - Nov 2022
-- **Skills:** Web Scraping, Data Scraping, XML and Python
-
-**Overview:** Extracted Amazon data using Python for web scraping, focusing on efficient techniques. Proficient in handling dynamic content and manipulating XML structures.
-
-### [Python Script](https://github.com/gvelasque/python-projects.git)
-- **Duration:** Jan 2023 - Present
-- **Skills:** Python, Clean Code, Algorithm Design and Modular Design
-
-**Overview:** A collection of Python scripts showcasing clean code practices and small project implementations. Each script emphasizes readability, maintainability, and effective problem-solving.
+- **[Amazon Web Scraping](https://github.com/gvelasque/amazon-web-scraping.git)**
+  - *Duration:* Jul 2022 - Nov 2022
+  - *Skills:* Web Scraping, Data Scraping, XML and Python
+  - *Overview:* Extracted Amazon data using Python for web scraping, focusing on efficient techniques.
+- **[Python Script](https://github.com/gvelasque/python-projects.git)**
+  - *Duration:* Jan 2023 - Present
+  - *Skills:* Python, Clean Code, Algorithm Design and Modular Design
+  - *Overview:* Collection of Python scripts showcasing clean code practices and small project implementations.
 
 <!-- 
 ## 🌐 Volunteering
 - **Python programming at Open Source Projects**
   - Dec 2023 - Present
   - Science and Technology
--->
 
 ## 🛠️ Skills Showcase
 
@@ -95,19 +89,16 @@ In my journey as a Software Engineer and Python Developer, I've honed my skills 
 - **Algorithm Design:** Creating  step-by-step procedures to solve computational problems.
 - **Database Design:** Defining the structure for organizing and storing data in a database.
 - **Data Structures:** Organizing and storing data.
+-->
 
 ## 📊 GitHub Analytics
 ![Profile Views](https://komarev.com/ghpvc/?username=gvelasque&color=brightgreen)
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats and Streak -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gvelasque&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvelasque&exclude_repo=repo1,repo2&langs_count=8&layout=compact&hide_border=true" />
-</p>
-
-<!-- GitHub Streak -->
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gvelasque&hide_border=true" />
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=gvelasque&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvelasque&exclude_repo=repo1,repo2&langs_count=8&layout=compact&hide_border=true" />
+   <img height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=gvelasque&hide_border=true" />
 </p>
 
 <!-- GitHub Activity Graph 
@@ -117,9 +108,9 @@ In my journey as a Software Engineer and Python Developer, I've honed my skills 
 -->
 
 ## 📫 Connect with Me
-- LinkedIn: [gvelasque](https://www.linkedin.com/in/gvelasque/)
+- Linkedin: [gvelasque](https://www.linkedin.com/in/gvelasque/)
 - Twitter: [gvelasquez93](https://twitter.com/gvelasquez93)
 
 Feel free to explore my projects, and don't hesitate to reach out for collaborations or exciting opportunities! 🚀
 
-# <p align="center">Happy Coding 👨‍💻</p>
+## <p align="center">Happy Coding 👨‍💻</p>
