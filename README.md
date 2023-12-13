@@ -121,3 +121,5 @@ In my journey as a Software Engineer and Python Developer, I've honed my skills 
 - Twitter: [gvelasquez93](https://twitter.com/gvelasquez93)
 
 Feel free to explore my projects, and don't hesitate to reach out for collaborations or exciting opportunities! 🚀
+
+# <p align="center">Happy Coding 👨‍💻</p>
