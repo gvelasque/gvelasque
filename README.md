@@ -106,8 +106,8 @@ In my journey as a Software Engineer and Python Developer, I've honed my skills 
 -->
 
 ## 📫 Connect with Me
-- Linkedin: [gvelasque](https://www.linkedin.com/in/gvelasque/)
-- Twitter: [gvelasquez93](https://twitter.com/gvelasquez93)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gvelasque/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gvelasquez93/)
 
 Feel free to explore my projects, and don't hesitate to reach out for collaborations or exciting opportunities! 🚀
 
