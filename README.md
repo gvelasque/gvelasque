@@ -39,13 +39,17 @@ I'm Gerardo Velasquez, an enthusiastic and dedicated computer engineering studen
 ## 🚀 Projects
  
 - **[Amazon Web Scraping](https://github.com/gvelasque/amazon-web-scraping.git)**
-  - *Duration:* Jul 2022 - Nov 2022
-  - *Skills:* Web Scraping, Data Scraping, XML and Python
-  - *Overview:* Extracted Amazon data using Python for web scraping, focusing on efficient techniques.
+  - 📅 *Duration:* Jul 2022 - Nov 2022
+  - 🛠️ *Skills:* Web Scraping, Data Scraping, XML and Python
+  - 🎯 *Overview:* Extracted Amazon data using Python for web scraping, focusing on efficient techniques.
 - **[Python Script](https://github.com/gvelasque/python-projects.git)**
-  - *Duration:* Jan 2023 - Present
-  - *Skills:* Python, Clean Code, Algorithm Design and Modular Design
-  - *Overview:* Collection of Python scripts showcasing clean code practices and small project implementations.
+  - 📅 *Duration:* Jan 2023 - Present
+  - 🛠️ *Skills:* Python, Clean Code, Algorithm Design and Modular Design
+  - 🎯 *Overview:* Collection of Python scripts showcasing clean code practices and small project implementations.
+- **[Lane Detection System](https://github.com/gvelasque/lane_detection.git)**
+  - 📅 *Duration:* Jan 2025 - Present
+  - 🛠️ *Skills:* Computer Vision, Image Processing, OpenCV, NumPy, Hough Transform, Python
+  - 🎯 *Overview:* Implemented a real-time lane detection system for autonomous driving using OpenCV and Python. The pipeline includes edge detection (Canny), ROI masking, and Hough Transform for robust lane marking identification. Optimized for real-time processing and scalability.
 
 <!-- 
 ## 🌐 Volunteering
